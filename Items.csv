@@ -1,6 +1,6 @@
-﻿S.No,Name,Qty,Price Per Unit,Category,Total Price
-1,Pencil,2,5,Education,10
-2,Pen,4,10,Education,40
-3,Laptop,1,"10,000",Technology,"10,000"
-4,Table,3,2000,Furniture,6000
-5,Rice Bag,5,1500,Food,7500
+﻿S.No,Name,Qty,Price Per Unit,Category,Total Price,Payment Mode
+1,Pencil,2,5,Education,10,Cash
+2,Pen,4,10,Education,40,Cash
+3,Laptop,1,"10,000",Technology,"10,000",UPI
+4,Table,3,2000,Furniture,6000,UPI
+5,Rice Bag,5,1500,Food,7500,Card
